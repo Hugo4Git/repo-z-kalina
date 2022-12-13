@@ -1,2 +1,2 @@
-# repo-z-kalina
-zadanie 4
+to moja zmiana
+przeczytanie pliku README.md jet bardzo istotnym elementem, więc zrób to uważnie
